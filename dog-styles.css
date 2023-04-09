@@ -1,0 +1,26 @@
+body{
+    background-color: #b9b8d3;
+}
+h1{
+    font-size: 42px;
+    color:#9a48d0;
+}
+.container{
+    position:relative;
+}
+#pup{
+    position:absolute;
+    left:50%;
+    width:500px;
+    height:500px;
+    border-radius: 50%;
+    float: right;
+    top:10%;
+}
+p{
+    font-size: 18px;
+   
+}
+img{
+    position: relative;
+}
